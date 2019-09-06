@@ -1,5 +1,5 @@
 _repo: The-Priest-and-the-Acolyte-With-an-Introductory-Protest-by-Stuart-Mason_60229
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Mason, Stuart
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '36540'
     url: http://www.gutenberg.org/2009/agents/36540
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Sclater_Millard
+covers:
+- cover_type: archival
+  image_path: 60229-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloxam, John Francis
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50859
     wikipedia: https://en.wikipedia.org/wiki/John_Francis_Bloxam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60229#The-Priest-and-the-Acolyte-With-an-Introductory-Protest-by-Stuart-Mason
 gutenberg_issued: '2019-09-03'
 gutenberg_type: Text
 identifiers:
