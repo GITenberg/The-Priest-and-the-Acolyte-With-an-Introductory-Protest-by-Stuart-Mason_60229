@@ -1,0 +1,35 @@
+_repo: The-Priest-and-the-Acolyte-With-an-Introductory-Protest-by-Stuart-Mason_60229
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Mason, Stuart
+    alias: Millard, Christopher Sclater
+    birthdate: 1872
+    deathdate: 1927
+    gutenberg_agent_id: '36540'
+    url: http://www.gutenberg.org/2009/agents/36540
+    wikipedia: https://en.wikipedia.org/wiki/Christopher_Sclater_Millard
+creator:
+  author:
+    agent_name: Bloxam, John Francis
+    birthdate: 1873
+    deathdate: 1928
+    gutenberg_agent_id: '50859'
+    url: http://www.gutenberg.org/2009/agents/50859
+    wikipedia: https://en.wikipedia.org/wiki/John_Francis_Bloxam
+description: ''
+gutenberg_issued: '2019-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Catholic Church -- Clergy -- Sexual behavior -- Fiction'
+- !lcsh 'Homosexuality -- Fiction'
+- GITenberg
+title: "The Priest and the Acolyte\r\nWith an Introductory Protest by Stuart Mason"
+url: http://www.gutenberg.org/ebooks/60229
